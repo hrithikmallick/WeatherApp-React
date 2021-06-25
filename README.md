@@ -4,7 +4,7 @@
 
 Using openweather api
 
-## Hosted on
+
 
 ```
 
