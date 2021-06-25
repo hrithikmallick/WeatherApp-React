@@ -5,7 +5,4 @@
 Using openweather api
 
 
-
-```
-
-```
+## Thank You
